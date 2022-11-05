@@ -1,0 +1,15 @@
+main
+	__CC2DW
+		____DoICP
+	SoftUart_Init
+	Soft_UART_Write_Text_Const
+		____DoICP
+		Soft_UART_Write
+	Soft_UART_Write
+	Soft_UART_Read_Text
+		Soft_UART_Read
+	Soft_UART_Write_Text
+		Soft_UART_Write
+	Soft_UART_Read
+	WordToStr
+		Div_16X16_U

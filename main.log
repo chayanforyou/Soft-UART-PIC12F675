@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP12F675 -DL -O11111114 -fo4 -N"C:\Users\Minion\Desktop\Soft UART PIC12F675\main.mcppi" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Minion\Desktop\Soft UART PIC12F675\" -IP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "main.c" "Soft_Uart.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl"	 
+hint: 0	1139	Available RAM: 48 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	soft_uart.h
+diagnostics: 65	123	Compiled Successfully	main.c
+diagnostics: 0	122	Compilation Started	soft_uart.h
+diagnostics: 86	123	Compiled Successfully	Soft_Uart.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+hint: 0	1144	Used RAM (bytes): 31 (65%)  Free RAM (bytes): 17 (35%)	Used RAM (bytes): 31 (65%)  Free RAM (bytes): 17 (35%)
+hint: 0	1144	Used ROM (program words): 563 (55%)  Free ROM (program words): 461 (45%)	Used ROM (program words): 563 (55%)  Free ROM (program words): 461 (45%)
+diagnostics: 0	125	Project Linked Successfully	main.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'main.mcppi' completed: 203 ms	 
+diagnostics: 0	103	Finished successfully: 05 Nov 2022, 23:44:02	main.mcppi
